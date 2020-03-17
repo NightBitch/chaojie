@@ -1,0 +1,31 @@
+# Permalinks
+permalink:      /:year-:month-:day/:title
+
+# Setup
+title:          "C,J"
+paginate:       5
+baseurl:        ""
+url:            "https://chaojie.github.io"
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+# Build settings
+markdown:       kramdown
+
+# About
+author:
+  name:         Bexon
+  url:          https://chaojie.github.io
+  email:        bexon@mail.com
+
+# Custom vars
+version:        3.4.1
+github:
+  repo:         https://chaojie.github.io
+
+# Gems
+gems:
+  - jekyll-paginate
