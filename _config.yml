@@ -2,10 +2,10 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          "C,J"
+title:          "C.J"
 paginate:       5
 baseurl:        ""
-url:            "https://chaojie.github.io"
+url:            "https://bexonp.github.io"
 
 # Assets
 sass:
@@ -18,13 +18,13 @@ markdown:       kramdown
 # About
 author:
   name:         Bexon
-  url:          https://chaojie.github.io
-  email:        bexon@mail.com
+  url:          https://bexonp.github.io
+  email:        chaojie149@gmail.com
 
 # Custom vars
 version:        3.4.1
 github:
-  repo:         https://chaojie.github.io
+  repo:         https://github.com/bexonp
 
 # Gems
 gems:
